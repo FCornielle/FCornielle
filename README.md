@@ -41,5 +41,5 @@ My work combines Python, DIgSILENT PowerFactory, Azure, Power BI, and modern MLO
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-HERE  
+- LinkedIn: www.linkedin.com/in/fernando-cornielle  
 - Email: fernandocornielle@gmail.com
